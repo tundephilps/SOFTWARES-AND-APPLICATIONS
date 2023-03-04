@@ -88,12 +88,12 @@ function App() {
 
           <li>
             <a
-              href="#"
+              href="https://kanban-dnd-plum.vercel.app/"
               onClick={handlePlayMusic}
               onMouseEnter={playAudio}
               onMouseLeave={playBreak}
             >
-              KABAN BOARD (Coming soon)
+              KABAN (Drag n Drop)
             </a>
           </li>
 
